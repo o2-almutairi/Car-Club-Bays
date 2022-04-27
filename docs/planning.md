@@ -12,8 +12,18 @@ The application provides a complete guide about the different locations where th
 TODO: What are some other customer options or leading products that address the same needs?
 
 ### Expected Risks
-TODO: What are the main risks of this project?
-
+#### Management risks
+1. The vacations of team member
+2. A team member may decide to quit
+3. A team member may get sick
+4. The scope of project may change
+5. A conflict may arise between the stakeholders
+6. The delays may occur in approval or feedback from the client
+#### Tech risks
+1. The environments/dependencies and rules may change
+2. Integration in different systems
+3. The scalability of the project
+4. 
 ## Project Scope
 TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
 
