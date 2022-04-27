@@ -3,10 +3,10 @@
 ## Business Case
 
 ### Problem statement
-TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
+The drivers often find it different to locate the car parkings or car club bays that are situated in different locations of the city. They can't find the locations easily and much of time is wasted on locating the car parkings or car club bays.
 
 ### Business benefits
-TODO: List high-level benefits that this product will provide.
+The application provides a complete guide about the different locations where the car parkings are found. It provides the list of locations where the car parkings are located. It also provides the exact location of selected car club bay on map. Moreover, it also calculates the distance of the car parking from the location of the user.
 
 ### Options Considered
 TODO: What are some other customer options or leading products that address the same needs?
