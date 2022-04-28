@@ -19,6 +19,12 @@ This file contains the code to connect wit the database server. It works as a br
 These files contain necessary settings of the application
 
 Now let's Have a look at the other files and folders of this application
+## bin
+This folder contains the compilation scripts or any temporary files that are created during execution.
+## public
+This folder contains the different source files that are used in application. The folder is further divided into three directories that are
+images to store images, javascripts to store javascript files and stylesheets to store CSS or style files.
+
 
 ## Software Architecture
 TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
