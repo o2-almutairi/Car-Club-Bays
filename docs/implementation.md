@@ -36,6 +36,9 @@ display the errors.
 
 ![Insert your component Diagram here](images/tree.png)
 ## Software Architecture
-TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
+The software architecture consists of three parts:
+1. Database: This component stores the necessary Data.
+2. Webserver: This component works as a bridge between the database and the application. The data parsing is important function of this component.
+3. Web App: It is the interface that is useful for the user to interact with the application. The GUI is displayed by this component.
 
 ![Insert your component Diagram here](images/component.png)
