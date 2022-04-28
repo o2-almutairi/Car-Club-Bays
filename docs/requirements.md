@@ -39,6 +39,19 @@ The car owners need to quickly find out the car parkings where they are in Brist
 | **Non-functional** | None
 | **Issues**        | None
 
+| USE-CASE 3 | Distance from User | 
+| -------------------------------------- | ------------------- |
+| **Description**   | It Should Display the distance of a selected Car parking or CCB from the user's location |
+| **Actors**        | Vehicle Owners and Drivers |
+| **Assumptions**   | Nil
+| **Steps**         |   1. Wait for the page to load
+                        2. Once loaded click on calculate link given in front of every car club bay
+                        3. Wait for the page to respond
+                        4. The page should display the distance with the dialogue box that includes and ok button and distance between the user and car club bay.
+| **Variations**    | None
+| **Non-functional** | None
+| **Issues**        | None
+
 
 
 TODO: Your Use-Case diagram should include all use-cases.
