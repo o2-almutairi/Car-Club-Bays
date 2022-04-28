@@ -17,4 +17,10 @@ It display's the distance of the selected car parking or car club bay from the l
 TODO: Specify and develop a user interface mockup using a wireframe.
 
 ![Insert your wireframe screenshots for each use-case here](images/wireframe.png)
-TODO: repeat as necessary
+Use Case 1:
+![Insert your wireframe screenshots for each use-case here](images/usercase1-1.png)
+Use Case 2:
+![Insert your wireframe screenshots for each use-case here](images/usercase1-2.png)
+Use Case 3:
+![Insert your wireframe screenshots for each use-case here](images/usercase1-3.png)
+
