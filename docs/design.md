@@ -1,8 +1,9 @@
 # Design
 
 ## Behavioural design
-TODO: Describe a concrete scenario for each use-case. 
-Describe it in terms of interactions between the components introduces above, and the actors introduced in your requirements.
+Use Case 1:
+It display's the list of all the car club bays that exist in the city of Bristles with completed details.
+
 
 ![Insert your Interaction/Sequence Diagrams for each use-case here.](images/sequence.png)
 
