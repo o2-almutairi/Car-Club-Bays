@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Car Club Bays List By Operator(Bristols - UK)</title>
+</head>
+<body>
+    <div class="table-data">
+<h2>Car Club Bays List (Bristols - UK)</h2>
+    <table border="1">
+        <tr>
+            <th scope="col">S. No</th>
+            <th scope="col">CC_id</th>
+            <th scope="col">Operator</th>
+            <th scope="col">Location</th>
+            <th scope="col">Postcode</th>
+            <th scope="col">Latitude</th>
+            <th scope="col">Longitude</th>
+            <th scope="col">Vehicle Type</th>
+            <th scope="col">point</th>
+            <th>Map</th>
+            <th>Distance</th>
+        </tr>
+        
+        <%
+        if(clubData.length!=0){
+        var i=0;
+        clubData.forEach(function(data){
+        %>
+        <tr>
+            <td scope="row"><%= (i+1) %></td>
+    <td><%= data.ccid%></td>
+    <td><%= data.Operator%></td>
+    <td><%= data.Location%></td>
+    <td><%= data.Postcode%></td>
+    <td><%= data.Latitude%></td>
+    <td><%= data.Longitude%></td>
+    <td><%= data.VehicleType%></td>
+    <td><%= data.point%></td>
+            <td><a href="javascript:viewmap(<%=data.Latitude%>, <%=data.Longitude%>">View</a></td>
+            <td><a href="/clubs/delete/<%=data.ccid%>">Calculate</a></td>
+        </tr>
+        <%  i++; }) %>
+        <% } else{ %>
+            <tr>
+                <td colspan="7">No Data Found</td>
+            </tr>
+        <% } %>
+    </table>
+    </div>
+    <script>
+        function viewmap(lat, long){
+            
+        }
+    </script>
+
+</body>
+</html>
