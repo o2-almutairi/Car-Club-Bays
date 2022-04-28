@@ -7,6 +7,9 @@ It display's the list of all the car club bays that exist in the city of Bristle
 Use Case 2:
 It display's the location of the selected car parking or car club bay on the google map.
 
+Use Case 3:
+It display's the distance of the selected car parking or car club bay from the location of the user with a dialogue box.
+
 
 ![Insert your Interaction/Sequence Diagrams for each use-case here.](images/sequence.png)
 
