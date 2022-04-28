@@ -3,9 +3,9 @@
 ## User Needs
 The car owners need to quickly find out the car parkings where they are in Bristols.
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
-
+1. As a taxi driver I want to locate car parkings so often so that I may park my taxi
+2. As a car owner I often need the place to park my car.
+3. As a truck driver I often want to find out the right places to park my vehicle.
 ### Actors
 TODO: List and describe the actors/users for this product.
 
@@ -14,15 +14,20 @@ TODO: Describe each use case (one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
     Summarise these using the use-case template below.
 
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
+| USE-CASE 1 | List of CCBs | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+ **Description**   | It should display a list of all the car parkings or CCBs situated in different locations of Bristols City |
+| **Actors**        | Vehicle Owners and Drivers |
+| **Assumptions**   | Nil
+| **Steps**         |   1. Open Command Prompt
+                        2. Point to the directory where the nodeapp files (like app.js, database.js) exist
+                        3. Enter the command "node app.js" to run the application
+                        4. Go to http://localhost:3000/clubs/club-list
+                        5. You will see the list of Car Club Bays
+| **Variations**    | None
+| **Non-functional** | None
+| **Issues**        | None
+
 
 
 TODO: Your Use-Case diagram should include all use-cases.
