@@ -1,7 +1,8 @@
 # Implementation
 
 ## Introduction
-TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
+The system is implemented using MySQL, Node.js 16 version and javascript. The development of node module is a known issue.
+It is very important to start the node.js application and install the dependencies of the project.
 
 ## Project Structure
 TODO: Provide an outline of the project folder structure and the role of each file within it (not the contents of node_modules).
