@@ -18,6 +18,8 @@ This file contains the code to connect wit the database server. It works as a br
 ### package.js and package-lock.js
 These files contain necessary settings of the application
 
+Now let's Have a look at the other files and folders of this application
+
 ## Software Architecture
 TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
 
