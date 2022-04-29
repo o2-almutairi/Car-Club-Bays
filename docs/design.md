@@ -14,6 +14,7 @@ It display's the distance of the selected car parking or car club bay from the l
 ![Insert your Interaction/Sequence Diagrams for each use-case here.](images/sequence.png)
 
 ## User Interface design
+Wireframe:
 
 ![Insert your wireframe screenshots for each use-case here](images/wireframe.png)
 Use Case 1:
