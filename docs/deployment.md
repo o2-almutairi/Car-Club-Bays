@@ -16,7 +16,11 @@ Apache Server
 ![Insert Deployment diagram here](images/deployment.png)
 
 # User guide
-TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
-
-![Insert screenshots here](images/screenshot.png)
-TODO: Repeat as necessary
+Use Case # 1:
+The club list should open once we run the app:
+1. Open Command Prompt
+2. Point to the directory where the nodeapp files (like app.js, database.js) exist
+3. Enter the command "node app.js" to run the application
+4. Go to http://localhost:3000/clubs/club-list
+5. You will see the list of Car Club Bays
+![Insert screenshots here](images/usercase1-1.png)
