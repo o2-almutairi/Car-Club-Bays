@@ -1,9 +1,17 @@
 # Deployment
 
 ## Release Notes
-TODO: Describe the current version of the system (with version number. Include system dependencies ands software tools used.
-Are there any known issues? 
-Describe the deployment of software components to hardware nodes using a UML Deployment diagram.
+Dependencies:
+Nodejs
+HTML
+CSS
+
+Software Tools/Programming Languages Used:
+Nodejs 17.7.2
+HTML 5
+CSS 3
+MySQL Server
+Apache Server
 
 ![Insert Deployment diagram here](images/deployment.png)
 
